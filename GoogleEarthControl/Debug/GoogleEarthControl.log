@@ -1,0 +1,34 @@
+﻿Build started 5/30/2011 3:17:03 PM.
+     1>Project "C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\GoogleEarthControl\GoogleEarthControl\GoogleEarthControl\GoogleEarthControl.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\GoogleEarthControl.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I../GoogleEarthControl /I./Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GoogleEarthControl.cpp SceneDrawer.cpp
+         SceneDrawer.cpp
+     1>c:\documents and settings\administrator\my documents\visual studio 2010\projects\googleearthcontrol\googleearthcontrol\googleearthcontrol\scenedrawer.cpp(182): warning C4101: 'b' : unreferenced local variable
+     1>c:\documents and settings\administrator\my documents\visual studio 2010\projects\googleearthcontrol\googleearthcontrol\googleearthcontrol\scenedrawer.cpp(634): warning C4129: ' ' : unrecognized character escape sequence
+     1>c:\documents and settings\administrator\my documents\visual studio 2010\projects\googleearthcontrol\googleearthcontrol\googleearthcontrol\scenedrawer.cpp(705): warning C4129: ' ' : unrecognized character escape sequence
+     1>c:\documents and settings\administrator\my documents\visual studio 2010\projects\googleearthcontrol\googleearthcontrol\googleearthcontrol\scenedrawer.cpp(1116): warning C4129: ' ' : unrecognized character escape sequence
+     1>c:\documents and settings\administrator\my documents\visual studio 2010\projects\googleearthcontrol\googleearthcontrol\googleearthcontrol\scenedrawer.cpp(1318): warning C4101: 'a' : unreferenced local variable
+         GoogleEarthControl.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\GoogleEarthControl\GoogleEarthControl\Debug\GoogleEarthControl.exe" /INCREMENTAL /NOLOGO /LIBPATH:./Lib /LIBPATH:./Lib/Lib openNI.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\GoogleEarthControl.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\GoogleEarthControl\GoogleEarthControl\Debug\GoogleEarthControl.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\GoogleEarthControl\GoogleEarthControl\Debug\GoogleEarthControl.lib" /MACHINE:X86 Debug\GoogleEarthControl.exe.embed.manifest.res
+         Debug\GoogleEarthControl.obj
+         Debug\SceneDrawer.obj
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\GoogleEarthControl.exe.embed.manifest" /manifest Debug\GoogleEarthControl.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         GoogleEarthControl.vcxproj -> C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\GoogleEarthControl\GoogleEarthControl\Debug\GoogleEarthControl.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\GoogleEarthControl.unsuccessfulbuild".
+         Touching "Debug\GoogleEarthControl.lastbuildstate".
+     1>Done Building Project "C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\GoogleEarthControl\GoogleEarthControl\GoogleEarthControl\GoogleEarthControl.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.12

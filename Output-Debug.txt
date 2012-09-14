@@ -1,0 +1,47 @@
+﻿'GoogleEarthControl.exe': Loaded 'C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\GoogleEarthControl\GoogleEarthControl\Debug\GoogleEarthControl.exe', Symbols loaded.
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\ntdll.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\kernel32.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\Program Files\OpenNI\Bin\OpenNI.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\ws2_32.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\advapi32.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\rpcrt4.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\secur32.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\msvcrt.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\ws2help.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\setupapi.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\gdi32.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\user32.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\WinSxS\x86_Microsoft.VC90.CRT_1fc8b3b9a1e18e3b_9.0.30729.5570_x-ww_0517bbc6\msvcr90.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\GoogleEarthControl\GoogleEarthControl\GoogleEarthControl\glut32.dll', Binary was not built with debug information.
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\opengl32.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\glu32.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\ddraw.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\dciman32.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\winmm.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\msvcr100d.dll', Symbols loaded.
+'GoogleEarthControl.exe': Loaded 'C:\Program Files\OpenNI\Bin\nimRecorder.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\Program Files\OpenNI\Bin\nimMockNodes.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\Program Files\OpenNI\Bin\nimCodecs.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\Program Files\Prime Sense\Sensor\Bin\XnDeviceFile.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\Program Files\Prime Sense\Sensor\Bin\XnCore.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\msvcr100.dll', Symbols loaded.
+'GoogleEarthControl.exe': Loaded 'C:\Program Files\Prime Sense\Sensor\Bin\XnDDK.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\Program Files\Prime Sense\Sensor\Bin\XnFormats.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\Program Files\Prime Sense\Sensor\Bin\XnDeviceSensorV2.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\Program Files\Prime Sense\NITE\Features\Bin\XnVFeatures.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\WinSxS\x86_Microsoft.VC90.CRT_1fc8b3b9a1e18e3b_9.0.30729.5570_x-ww_0517bbc6\msvcp90.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\Program Files\Prime Sense\NITE\Hands\Bin\XnVHandGenerator.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\wintrust.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\crypt32.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\msasn1.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\imagehlp.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\mswsock.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\hnetcfg.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\wshtcpip.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\nvoglnt.dll', Cannot find or open the PDB file
+The thread 'Win32 Thread' (0x1454) has exited with code 0 (0x0).
+'GoogleEarthControl.exe': Loaded 'C:\WINDOWS\system32\mcd32.dll', Cannot find or open the PDB file
+'GoogleEarthControl.exe': Unloaded 'C:\WINDOWS\system32\mcd32.dll'
+The thread 'Win32 Thread' (0x1354) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x530) has exited with code 0 (0x0).
+The program '[3676] GoogleEarthControl.exe: Native' has exited with code 0 (0x0).

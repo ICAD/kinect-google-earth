@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GoogleEarthControl", "GoogleEarthControl\GoogleEarthControl.vcxproj", "{FD3FF923-27D0-4447-AA7C-7EAF0065C869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Win32 = CD_ROM|Win32
+		Debug|Win32 = Debug|Win32
+		DVD-5|Win32 = DVD-5|Win32
+		Release|Win32 = Release|Win32
+		SingleImage|Win32 = SingleImage|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD3FF923-27D0-4447-AA7C-7EAF0065C869}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{FD3FF923-27D0-4447-AA7C-7EAF0065C869}.CD_ROM|Win32.Build.0 = Release|Win32
+		{FD3FF923-27D0-4447-AA7C-7EAF0065C869}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD3FF923-27D0-4447-AA7C-7EAF0065C869}.Debug|Win32.Build.0 = Debug|Win32
+		{FD3FF923-27D0-4447-AA7C-7EAF0065C869}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{FD3FF923-27D0-4447-AA7C-7EAF0065C869}.DVD-5|Win32.Build.0 = Debug|Win32
+		{FD3FF923-27D0-4447-AA7C-7EAF0065C869}.Release|Win32.ActiveCfg = Release|Win32
+		{FD3FF923-27D0-4447-AA7C-7EAF0065C869}.Release|Win32.Build.0 = Release|Win32
+		{FD3FF923-27D0-4447-AA7C-7EAF0065C869}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{FD3FF923-27D0-4447-AA7C-7EAF0065C869}.SingleImage|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,2 +1,2 @@
-kinect-google-earth
+Kinect Google Earth Control
 ===================
